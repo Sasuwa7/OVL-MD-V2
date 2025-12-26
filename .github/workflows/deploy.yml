@@ -1,4 +1,4 @@
-name: SISTA-MK Bot CI
+name: SISTA_MK Bot CI
 
 on:
   push:
